@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikram</h1>
 <h3 align="center">A passionate Java Backend Developer skilled in designing and buliding java codes to increase efficiency of Websites.with proven performance in management, communication, and creative thinking skills.</h3>
-<img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRPamciB4gfa4CRnGxDEMvATKJx8D6u4UO7g&usqp=CAU](https://product.hubspot.com/hs-fs/hubfs/unnamed%20(2).gif?width=194&name=unnamed%20(2).gif)">
+<img align="right" alt="Coding" width="400" src="https://product.hubspot.com/hs-fs/hubfs/unnamed%20(2).gif?width=194&name=unnamed%20(2).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram0411&label=Profile%20views&color=0e75b6&style=flat" alt="vikram0411" /> </p>
 
