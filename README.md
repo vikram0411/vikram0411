@@ -31,3 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikram0411&show_icons=true&locale=en" alt="vikram0411" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram0411&" alt="vikram0411" /></p>
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallu27899&theme=react&langs_count=8" alt="pallavi bobale" height="260px" width="25%" />
+  <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=pallu27899&bg_color=181818&color=5BCDEC&line=5BCDEC&point=FFFFFF" height="255px" width="70%"/>
+<div>
