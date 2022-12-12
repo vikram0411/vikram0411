@@ -9,7 +9,7 @@
 
 # 💫 About Me:
 
-- 🌱 I’m currently learning Java Backend Development
+- 🌱 I’m currently learning Springboot,Hibernate
 
 - 👨‍💻 All of my projects are available at [vikram0411.github.io](https://vikram0411.github.io/)
 
