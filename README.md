@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Vikram</h1>
 <h3 align="center">A passionate Java Backend Developer skilled in designing and buliding java codes to increase efficiency of Websites.with proven performance in management, communication, and creative thinking skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://product.hubspot.com/hs-fs/hubfs/unnamed%20(2).gif?width=194&name=unnamed%20(2).gif">
@@ -6,13 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+# 💫 About Me:
+
+- 🌱 I’m currently learning Java Backend Development
+
 - 👨‍💻 All of my projects are available at [vikram0411.github.io](https://vikram0411.github.io/)
 
 - 💬 Ask me about **Java ,MySQL**
 
 - 📫 How to reach me **vikram987314@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kfXTAuPCpqqT3gY7KE-nEBquBn4_zk91/view?usp=sharing](https://drive.google.com/file/d/1kfXTAuPCpqqT3gY7KE-nEBquBn4_zk91/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
