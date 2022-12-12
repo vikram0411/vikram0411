@@ -32,6 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram0411&" alt="vikram0411" /></p>
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram0411&theme=react&langs_count=8" alt="vikram0411" height="260px" width="25%" />
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram0411&theme=react&langs_count=8" alt="vikram0411" height="260px" width="25%" /> -->
 <!--   <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=vikram0411&bg_color=181818&color=5BCDEC&line=5BCDEC&point=FFFFFF" height="255px" width="70%"/> -->
 <div>
